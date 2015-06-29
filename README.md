@@ -31,3 +31,15 @@ For your first weekend lab, we'll be making a tic-tac-toe game using your knowle
 * Display a message to indicate which turn is about to be played.
 * If a player wins with three in a row, stop the game and alert the winner.
 	* **Hint:** Determine a set of winning combinations. Check those combinations against the board contents after every move.
+
+If first move is x second move is o
+	else x is second move 
+
+Only player one can make 5 moves, player2 can only make four
+minimum moves you can make to win is 3, max is 5 for Player1; max is 4 for Player2
+
+Functions
+1. When user click first square assigns it an x.
+2. Function that doesnt allow to be clicked more than once
+3. Function that alternates bwtwn x and o
+5. Function that determines winner/tie
