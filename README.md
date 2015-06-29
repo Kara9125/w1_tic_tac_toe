@@ -39,7 +39,10 @@ Only player one can make 5 moves, player2 can only make four
 minimum moves you can make to win is 3, max is 5 for Player1; max is 4 for Player2
 
 Functions
-1. When user click first square assigns it an x.
-2. Function that doesnt allow to be clicked more than once
-3. Function that alternates bwtwn x and o
+1. Function that doesnt allow square to be clicked more than once
+2. Function that alternates bwtwn x and o add in color alt as well
+3. When user click first square assigns it an x.
+4. Function that counters
 5. Function that determines winner/tie
+
+A variable that holds the directional winner options - vertical, horizontal and diagonal
